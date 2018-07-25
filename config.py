@@ -11,7 +11,7 @@ ACCESS_TOKEN = 'YOUR_FACEBOOK_APP_ACCESS_TOKEN'
 VERIFY_TOKEN = 'FACEBOOK_APP_VERIFY_TOKEN'
 
 # App url
-APP_URL = 'APP_URL'
+APP_URL = 'https://yourappname.herokuapp.com/'
 
 # For analytics purposes
 CHATMETRICS_TOKEN = 'CHATMETRICS_TOKEN'
